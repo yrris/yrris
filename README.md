@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yrris/yrris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, there 👋
+
+Welcome to my GitHub profile! I'm a student specializing in backend development and distributed systems. I'm passionate about creating efficient and scalable solutions.
+
+## 🚀 Skills
+- Programming Languages: Go, Java, Python, TypeScript
+- Technologies: PostgreSQL, Redis, Docker
+- Frontend: React, Next.js, TailwindCSS
+
+## 📚 Current Learning
+- Database Systems
+- Distribute Systems
+- Cloud-Native Technologies
+
+## 🔭 Current Projects
+- [My Personal Website](https://mywebsite.com)
+- [Open Source Compiler Project](https://github.com/peter1234/compiler-project)
+
+## 📫 How to reach me
+- Email: yourname@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+My websites and projects are examples now, but i will make them! 😄
