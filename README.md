@@ -38,6 +38,6 @@ Welcome to my GitHub profile! I'm a student specializing in backend development 
 
 ## 🥤 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrris&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrris&layout=pie&theme=ambient_gradient)
 
 My websites and projects are examples now, but i will make them! 😄
