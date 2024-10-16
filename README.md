@@ -36,4 +36,8 @@ Welcome to my GitHub profile! I'm a student specializing in backend development 
 - Email: yourname@example.com
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
+## 🥤 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrris&layout=compact&theme=tokyonight)
+
 My websites and projects are examples now, but i will make them! 😄
