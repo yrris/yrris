@@ -11,33 +11,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-# Hi, there 👋
-
-Welcome to my GitHub profile! I'm a student specializing in backend development and distributed systems. I'm passionate about creating efficient and scalable solutions.
-
-## 🚀 Skills
-- Programming Languages: Go, Java, Python, TypeScript
-- Technologies: PostgreSQL, Redis, Docker
-- Frontend: React, Next.js, TailwindCSS
-
 ## 📚 Current Learning
 - Database Systems
 - Distribute Systems
 - Cloud-Native Technologies
+-->
 
-## 🔭 Current Projects
-- [My Personal Website](https://mywebsite.com)
-- [Open Source Compiler Project](https://github.com/peter1234/compiler-project)
+# Hi, there 👋
+Welcome to my profile! I'm specializing in backend development and fullstack development. I'm passionate about creating efficient and scalable solutions.😊
+
+## 🚀 Skills
+- Programming Languages: Java, TypeScript, Go, Python, Rust
+- Technologies: PostgreSQL, MySQL, Redis, Mongo, RabbitMQ, Docker, CICD, AWS
+- Frontend: React, Next.js, TailwindCSS, Zustand, React Query
+
+## 🔭 What I've made
+- [My Portfolio](https://mywebsite.com)
+- [My Blog](https://mywebsite.com)
+- [Project1](https://mywebsite.com)
+- [Project2](https://mywebsite.com)
+- [Project3](https://mywebsite.com)
 
 ## 📫 How to reach me
 - Email: yourname@example.com
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 ## 🥤 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrris&layout=pie&theme=ambient_gradient)
 
-My websites and projects are examples now, but i will make them! 😄
