@@ -53,8 +53,8 @@ Welcome to my profile! I'm specializing in backend development and passionate ab
 <p>
   <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=Rust&logoColor=white" />
 </p>
 
@@ -90,7 +90,7 @@ Welcome to my profile! I'm specializing in backend development and passionate ab
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yrris&theme=default&utcOffset=8" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yrris&theme=default&utcOffset=10" alt="Productive Time" />
 </p>
 
 ---
