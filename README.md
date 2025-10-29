@@ -1,56 +1,13 @@
-<!--
-**yrris/yrris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## 📚 Current Learning
-- Database Systems
-- Distribute Systems
-- Cloud-Native Technologies
-
-# Hi, there 👋
-Welcome to my profile! I'm specializing in backend development and fullstack development. I'm passionate about creating efficient and scalable solutions.😊
-
-## 🚀 Skills
-- Programming Languages: Java, TypeScript, Go, Python, Rust
-- Technologies: PostgreSQL, MySQL, Redis, Mongo, RabbitMQ, Docker, CICD, AWS
-- Frontend: React, Next.js, TailwindCSS, Zustand, React Query
-
-## 🔭 What I've made
-- [My Portfolio](https://mywebsite.com)
-- [My Blog](https://mywebsite.com)
-- [Project1](https://mywebsite.com)
-- [Project2](https://mywebsite.com)
-- [Project3](https://mywebsite.com)
-
-## 📫 How to reach me
-- Email: yourname@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-## 🥤 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrris&layout=pie&theme=ambient_gradient)
- <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
- <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yrris&show_icons=true&theme=ambient_gradient" alt="GitHub Stats" />
--->
-
-# Hi, there 👋
+# Hi, there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> 
 Welcome to my profile! I'm specializing in backend development and passionate about creating efficient and scalable solutions.😊
 
 ---
 
 ## 🚀 Skills
 
-### 💻 Programming Languages
-<p>
+### 💻 Languages
+<p align="center">
   <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -59,7 +16,7 @@ Welcome to my profile! I'm specializing in backend development and passionate ab
 </p>
 
 ### 🛠️ Technologies & Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white" />
@@ -121,3 +78,7 @@ Welcome to my profile! I'm specializing in backend development and passionate ab
   <img src="https://count.getloli.com/get/@yrris?theme=booru-helltaker&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=98765" alt="Visitors" />
 </p>
 
+<!-- footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer&"/>
+</p>
