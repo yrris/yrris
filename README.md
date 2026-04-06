@@ -36,7 +36,7 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yrris&layout=compact&langs_count=8&theme=ambient_gradient" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yrris&size_weight=0&count_weight=1&layout=compact&langs_count=8&theme=ambient_gradient" alt="Top Languages" />
 </p>
 
 <p align="center">
