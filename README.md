@@ -10,7 +10,7 @@
  Backend enthusiast | Professional caffeine-to-code converter | Student at Life.exe
 
 <!-- ![][social-follow] -->
-[![][social-mail]](mailto:yrriswift7@gmail.com)
+[![][social-gmail]](mailto:yrriswift7@gmail.com)
 
 ---
 </div>
@@ -24,8 +24,8 @@
 | ![][h-Languages] | ![][python] ![][java] ![][go] ![][typescript] ![][c] ![][sql] ![][lua] |
 | :-------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][h-backend]  | ![][backend-springboot] ![][backend-postgresql] ![][backend-mysql] ![][backend-redis] ![][backend-nginx]       |
-| ![][h-frontend] | ![][frontend-react] ![][frontend-nextjs]                        |
-| ![][h-devops]   | ![][ops-docker] ![][ops-github-action] ![][ops-vercel]  |
+| ![][h-frontend] | ![][frontend-react] ![][frontend-nextjs] ![][frontend-tailwindcss]                      |
+| ![][h-devops]   | ![][ops-docker] ![][ops-github-action] ![][ops-vercel] ![ops-aws] |
 | ![][h-ide]      | ![][ide-vscode] ![][ide-jetbrains] ![][ide-zed]  ![][ide-cursor]  |
 | ![][h-os]       | ![][os-mac] ![][os-win] ![][os-ubuntu]     |
 | ![][h-shell]    | ![][shell-iterm] ![][shell-ghostty]        |
@@ -50,7 +50,7 @@
 
 <!-- SHIELD GROUP -->
 <!-- [social-follow]: https://img.shields.io/github/followers/yrris?style=flat-square&logo=github&labelColor=black&color=6E57FF -->
-[social-mail]: https://img.shields.io/badge/-Mail-blue?style=flat-square&logo=MicrosoftOutlook&logoColor=white
+[social-gmail]: https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white
 
 [h-Languages]: https://img.shields.io/badge/Languages-black?style=flat-square
 [h-frontend]: https://img.shields.io/badge/Frontend-black?style=flat-square
@@ -71,6 +71,7 @@
 
 [frontend-react]: https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
 [frontend-nextjs]: https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
+[frontend-tailwindcss]: https://img.shields.io/badge/tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white
 
 [backend-springboot]: https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white
 [backend-postgresql]: https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
@@ -81,6 +82,7 @@
 [ops-docker]: https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
 [ops-github-action]: https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white
 [ops-vercel]: https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white
+[ops-aws]: https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white
 
 [ide-vscode]: https://custom-icon-badges.demolab.com/badge/VSCode-000.svg?logo=vscode&logoColor=white
 [ide-idea]: https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white
