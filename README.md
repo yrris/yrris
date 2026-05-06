@@ -35,13 +35,24 @@
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yrris&size_weight=0&count_weight=1&layout=compact&langs_count=8&theme=ambient_gradient" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yrris&theme=default&utcOffset=10" alt="Productive Time" />
-</p>
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrris&theme=transparent"
+    alt="Stat"
+    width="98%"
+  />
+  <br /><br />
+  <img
+    src="https://github-readme-stats-delta-cyan.vercel.app/api/top-langs/?username=yrris&layout=donut&langs_count=7&theme=transparent&include_all_commits=true&count_private=true&size_weight=0&count_weight=1&hide=html,css,tex,Makefile,Dockerfile,Shell"
+    alt="Top Languages"
+    width="48.5%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yrris&utcOffset=10&theme=transparent"
+    alt="Productive Time"
+    width="48.5%"
+  />
+</div>
 
 <!-- footer-->
 <p align="center">
