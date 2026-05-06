@@ -43,7 +43,7 @@
   />
   <br /><br />
   <img
-    src="https://github-readme-stats-delta-cyan.vercel.app/api/top-langs/?username=yrris&layout=donut&langs_count=7&theme=transparent&include_all_commits=true&count_private=true&size_weight=0&count_weight=1&hide=html,css,tex,Makefile,Dockerfile,Shell"
+    src="https://github-readme-stats-delta-cyan.vercel.app/api/top-langs/?username=yrris&layout=donut&langs_count=7&theme=transparent&count_private=true&size_weight=0.5&count_weight=0.5&hide=html,css,tex,Makefile,Dockerfile,Shell"
     alt="Top Languages"
     width="48.5%"
   />
